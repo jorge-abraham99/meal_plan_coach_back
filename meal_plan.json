@@ -1,0 +1,91 @@
+{
+  "meal_plan": {
+      "Lunch": {
+        "Main": "Grilled Chicken Thighs with Boiled Potatoes",
+        "Details": {
+          "Grilled Chicken Thighs": {
+            "quantity": "200g",
+            "Food Name": "Chicken thighs casseroled meat only diced",
+            "Protein (g)": "51.2",
+            "Fat (g)": "17.2",
+            "Carbohydrate (g)": "0.0",
+            "Energy (kcal)": "360"
+          },
+          "Boiled Potatoes": {
+            "quantity": "250g",
+            "Food Name": "Potatoes old boiled in unsalted water flesh only",
+            "Protein (g)": "4.5",
+            "Fat (g)": "0.25",
+            "Carbohydrate (g)": "43.75",
+            "Energy (kcal)": "185"
+          }
+        },
+        "Lunch Totals": {
+          "Protein": "55.7g",
+          "Fat": "17.45g",
+          "Carbohydrate": "43.75g",
+          "Energy (kcal)": "545 kcal"
+        }
+      },
+      "Dinner": {
+        "Main": "Beef and Rice Bowl",
+        "Details": {
+          "Ground Beef": {
+            "quantity": "150g",
+            "Food Name": "Beef mince extra lean stewed",
+            "Protein (g)": "37.05",
+            "Fat (g)": "6.3",
+            "Carbohydrate (g)": "0.0",
+            "Energy (kcal)": "205.5"
+          },
+          "Cooked Rice": {
+            "quantity": "200g",
+            "Food Name": "Rice ready-cooked plain re-heated",
+            "Protein (g)": "8.2",
+            "Fat (g)": "3.8",
+            "Carbohydrate (g)": "67.8",
+            "Energy (kcal)": "322"
+          }
+        },
+        "Dinner Totals": {
+          "Protein": "45.25g",
+          "Fat": "10.1g",
+          "Carbohydrate": "67.8g",
+          "Energy (kcal)": "527.5 kcal"
+        }
+      },
+      "Snack": {
+        "Main": "Oatmeal with Strawberries",
+        "Details": {
+          "Oatmeal": {
+            "quantity": "40g",
+            "Food Name": "Porridge oats unfortified",
+            "Protein (g)": "4.36",
+            "Fat (g)": "3.24",
+            "Carbohydrate (g)": "28.28",
+            "Energy (kcal)": "152.4"
+          },
+          "Strawberries": {
+            "quantity": "50g",
+            "Food Name": "Strawberries raw",
+            "Protein (g)": "0.3",
+            "Fat (g)": "0.25",
+            "Carbohydrate (g)": "3.05",
+            "Energy (kcal)": "15.0"
+          }
+        },
+        "Snack Totals": {
+          "Protein": "4.66g",
+          "Fat": "3.49g",
+          "Carbohydrate": "31.33g",
+          "Energy (kcal)": "167.4 kcal"
+        }
+      },
+      "Daily Totals": {
+        "Total Protein": "105.61g",
+        "Total Fat": "31.04g",
+        "Total Carbohydrate": "142.88g",
+        "Total Energy (kcal)": "1240.9 kcal"
+      }
+    }
+  }
